@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/galaxy-travel/static/css/main.23ffb817.css",
+    "main.js": "/galaxy-travel/static/js/main.f714fc1f.js",
+    "static/media/space.mp4": "/galaxy-travel/static/media/space.41584ed51700d249bf73.mp4",
+    "static/media/heroImg.jpg": "/galaxy-travel/static/media/heroImg.717ecc48caf23ce480de.jpg",
+    "static/media/moon.jpg": "/galaxy-travel/static/media/moon.91396c73f099b0f6971b.jpg",
+    "static/media/pod.jpg": "/galaxy-travel/static/media/pod.30776f82b7df80237211.jpg",
+    "index.html": "/galaxy-travel/index.html",
+    "main.23ffb817.css.map": "/galaxy-travel/static/css/main.23ffb817.css.map",
+    "main.f714fc1f.js.map": "/galaxy-travel/static/js/main.f714fc1f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.23ffb817.css",
+    "static/js/main.f714fc1f.js"
+  ]
+}
